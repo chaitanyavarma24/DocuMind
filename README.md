@@ -1,4 +1,3 @@
-```markdown
 # DocuMind 🧠📄
 
 **DocuMind** is a Retrieval-Augmented Generation (RAG) powered Document Q&A system. It allows users to upload PDF documents and ask questions in natural language, receiving highly accurate, context-grounded answers without AI hallucinations. 
